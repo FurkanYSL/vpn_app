@@ -24,7 +24,7 @@ Modern ve kullanıcı dostu bir VPN uygulaması. Flutter ve GetX kullanılarak g
 
 1. **Projeyi klonlayın**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/FurkanYSL/vpn_app.git
    cd folder
    ```
 
