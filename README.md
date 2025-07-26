@@ -206,8 +206,8 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-- **Geliştirici**: [Adınız]
-- **Email**: [email@example.com]
+- **Geliştirici**: [Abdullah Furkan Yeşil]
+- **Email**: [abfurkanyesil@gmail.com]
 - **GitHub**: [github.com/FurkanYSL]
 
 ---
